@@ -14,7 +14,7 @@ fun deleteLastChar(date: String): String {
         // you can make it 1 //
         if (i == newDate2.size / 2) continue
         newDate3 += if (i != 0) newDate2[i] + "/" else newDate2[i]
-        println("gfg")
+
     }
 
     return "$date | $newDate1 | $newDate3"
