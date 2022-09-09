@@ -1,7 +1,7 @@
 fun main() {
 
     println(deleteLastChar(date = "2019/12/28"))
-    
+
 }
 
 fun deleteLastChar(date: String): String {
