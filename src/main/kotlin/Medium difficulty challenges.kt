@@ -1,12 +1,10 @@
-<<<<<<< HEAD
+
 import java.math.RoundingMode
 import java.text.DecimalFormat
 import java.util.*
 import kotlin.math.exp
 import kotlin.math.sqrt
 
-=======
->>>>>>> origin/master
 fun main() {
 //    sub_arrays(arr1 = mutableListOf(2, 4, 88), arr2 = mutableListOf(4, 2, 88))
 //    println(countWords(txt = "Plant hope in the hearts of others"))
@@ -24,7 +22,7 @@ fun main() {
 
 //    println(missingLetter(txt = "abcd"))
 //    println(middle_char(word = "salem"))
-<<<<<<< HEAD
+
 
 //    println(most_frequent_element(arr = mutableListOf(1,2,3,4,1,5,-5,-5,-5,-5,-5,6)))
 //    println(array_root(arr = mutableListOf(4.0,81.0,49.0)))
@@ -44,8 +42,6 @@ fun sort_array( my_array: MutableList<Int>,  typeParam: String):MutableList<Int>
         return my_array.sorted().toMutableList()
     }
 
-=======
->>>>>>> origin/master
 }
 
 
@@ -53,7 +49,7 @@ fun sort_array( my_array: MutableList<Int>,  typeParam: String):MutableList<Int>
 
 
 
-<<<<<<< HEAD
+
 //fun sort_array( elements_array: MutableList<Int>):MutableList<Int> {
 //    // write your code here
 //    return elements_array.sorted().toMutableList()
@@ -65,14 +61,7 @@ fun sort_array( my_array: MutableList<Int>,  typeParam: String):MutableList<Int>
 //    return mutableListOf(array_values.maxOf { it } , array_values.minOf { it })
 //
 //}
-=======
->>>>>>> origin/master
 
-
-
-
-
-<<<<<<< HEAD
 //fun compare_two_words(s1: String, s2: String): Boolean {
 //    return s1.substring(
 //        startIndex = s1.length - 2,
@@ -171,8 +160,7 @@ fun sort_array( my_array: MutableList<Int>,  typeParam: String):MutableList<Int>
 //    return element_having_max_freq
 //
 //}
-=======
->>>>>>> origin/master
+
 
 
 //fun middle_char(word: String): String {
